@@ -1,0 +1,1 @@
+{"builds":[{"name":"copper-wire-robot","sdkconfig_append":["CONFIG_ESPTOOLPY_FLASHSIZE_16MB=y","CONFIG_PARTITION_TABLE_CUSTOM_FILENAME=\"partitions/v2/16m.csv\""]}],"target":"esp32s3","type":"copper-wire-robot"}
